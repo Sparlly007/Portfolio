@@ -10,10 +10,10 @@
   "runtime~main.js": "/static/js/runtime~main.4ff97745.js",
   "runtime~main.js.map": "/static/js/runtime~main.4ff97745.js.map",
   "static/media/logo.svg": "/static/media/logo.06e73328.svg",
-  "static/media/bootstrap-icons.css": "/static/media/bootstrap-icons.a30fb81b.woff2",
-  "static/css/2.659e2693.chunk.css.map": "/static/css/2.659e2693.chunk.css.map",
+  "static/media/bootstrap-icons.css": "/static/media/bootstrap-icons.3d0ec57f.woff",
   "static/css/main.99811bd5.chunk.css.map": "/static/css/main.99811bd5.chunk.css.map",
+  "static/css/2.659e2693.chunk.css.map": "/static/css/2.659e2693.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.bd4141087ead988d713a26e479ba6f6e.js": "/precache-manifest.bd4141087ead988d713a26e479ba6f6e.js",
+  "precache-manifest.85d7a7bf240fab5a4a5b6448df495cd7.js": "/precache-manifest.85d7a7bf240fab5a4a5b6448df495cd7.js",
   "service-worker.js": "/service-worker.js"
 }
