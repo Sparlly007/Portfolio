@@ -71,7 +71,7 @@ export default function Sidebar() {
 
                     <p>
                         <a href="http://www.linkedin.com/in/emeka-nkuku-0b39a5193" target="_blank" rel="noopener noreferrer"><i class="bi header-icon bi-linkedin"></i></a>
-                        <a href="https://github.com/Sparlly007" target="_blank" rel="noopener noreferrer"><i class="bi header-icon bi-github"></i></a>
+                        <a href="https://github.com/emekankuku" target="_blank" rel="noopener noreferrer"><i class="bi header-icon bi-github"></i></a>
                         <a href="mailto: emekankuku@gmail.com" ><i class="bi header-icon bi-envelope-fill"></i></a>
                     </p>
                 </div>
