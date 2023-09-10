@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.452ecbd6.js"
   },
   {
-    "revision": "3d0ec57f40d62ba6a8e0d1857bb8f7d5",
-    "url": "/static/media/bootstrap-icons.3d0ec57f.woff"
-  },
-  {
     "revision": "a30fb81bd52143bcd4de2898422ac8b9",
     "url": "/static/media/bootstrap-icons.a30fb81b.woff2"
+  },
+  {
+    "revision": "3d0ec57f40d62ba6a8e0d1857bb8f7d5",
+    "url": "/static/media/bootstrap-icons.3d0ec57f.woff"
   },
   {
     "revision": "3f08d588920002ecd582925ca4a5770e",
