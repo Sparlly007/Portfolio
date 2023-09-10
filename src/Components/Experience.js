@@ -16,8 +16,6 @@ const Experience = () => {
                     <p class="gray-text">
                         Worked in a SCRUM team to improve existing application's frontend components and visual appeal using Material UI
                         that included refactoring the application's routing system between components.
-                        {/* Performed frontend development with an agile team for one of their nonprofit web application
-                        meant to help homeless job seekers find and gain skills for employment */}
                     </p>
                     <span class="badge badge-class">React</span>
                     <span class="badge badge-class">Material UI</span>

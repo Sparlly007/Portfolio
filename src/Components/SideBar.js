@@ -1,10 +1,5 @@
 import React from 'react';
-import { ScrollLink } from 'react-scroll';
-import Link from 'react-scroll';
 import * as Scroll from 'react-scroll';
-import GitHubIcon from '@mui/icons-material/GitHub';
-import LinkedInIcon from '@mui/icons-material/LinkedIn';
-import EmailIcon from '@mui/icons-material/Email';
 
 export default function Sidebar() {
     let Link = Scroll.Link;

@@ -1,8 +1,4 @@
 import React from "react";
-import AccountBalanceIcon from '@mui/icons-material/AccountBalance';
-import ConnectWithoutContactIcon from '@mui/icons-material/ConnectWithoutContact';
-import ScheduleIcon from '@mui/icons-material/Schedule';
-import CalculateIcon from '@mui/icons-material/Calculate';
 
 const Projects = () => {
     return (
