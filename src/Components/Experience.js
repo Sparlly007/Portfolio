@@ -34,7 +34,7 @@ const Experience = () => {
                     <a href="https://lehman.shoptruevalue.com/"
                         class="stretched-link" target="_blank" rel="noopener noreferrer"></a>
                     <div class="experience-headers">Assistant Manager . True Value <i class="bi link-arrow bi-arrow-up-right"></i></div>
-                    <div class="experience-subheaders gray-text">September 2019 - Present</div>
+                    <div class="experience-subheaders gray-text">September 2022 - Present</div>
                     <p class="gray-text">
                         Engaged in product inventory management to maximize store profits during cost increases
                         while managing weekly shipment orders to ensure customer purchase orders are fulfilled
