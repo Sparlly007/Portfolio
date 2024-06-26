@@ -10,7 +10,7 @@ export default function Sidebar() {
                 <div class="text-left sidebar-padding">
                     <img src={"./Me.png"} />
                     <h1>
-                        Chukwuemeka Nkuku
+                        Emeka Nkuku
                     </h1>
                     <div class="header-size mb-3">
                         <h5>
